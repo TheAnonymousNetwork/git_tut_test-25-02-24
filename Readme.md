@@ -1,3 +1,7 @@
+#INSTRUCTIONS FOR GIT
+
+
+
 - $ git init 			//Initialize local git repo
 - $ git add <file>		//add files to index
 - $ git status			//check status of woeking tree
